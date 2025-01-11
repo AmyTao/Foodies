@@ -1,6 +1,6 @@
 # Foodies: Your Ultimate Food Companion 👋
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 **Foodies** is your go-to app for everything food! Here's what makes it amazing:
@@ -299,6 +299,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Remi12138"><img src="https://avatars.githubusercontent.com/u/145180192?v=4?s=100" width="100px;" alt="Xianjing Huang"/><br /><sub><b>Xianjing Huang</b></sub></a><br /><a href="https://github.com/AmyTao/Foodies/commits?author=Remi12138" title="Code">💻</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/99-j"><img src="https://avatars.githubusercontent.com/u/97565095?v=4?s=100" width="100px;" alt="Jamie Liu"/><br /><sub><b>Jamie Liu</b></sub></a><br /><a href="https://github.com/AmyTao/Foodies/commits?author=99-j" title="Code">💻</a></td>
     </tr>
   </tbody>
   <tfoot>
