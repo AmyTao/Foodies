@@ -294,6 +294,7 @@ Many people have the same problem after updating Expo to version 52.0.
 <img src="/screenshots/dark004.png" alt="d4" height="350">
 <img src="/screenshots/dark003.png" alt="d3" height="350">
 </div>
+
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
