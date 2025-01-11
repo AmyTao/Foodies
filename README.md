@@ -184,6 +184,7 @@ The list ensures seamless restaurant discovery and allows users to manage their 
 - Receipt List Management: All uploaded receipts are displayed in a list format,
   allowing users to edit the title, amount, and reminder time or delete entries as needed.
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img src="/screenshots/000.png" alt="0" height="350">
 <img src="/screenshots/001.png" alt="1" height="350">
 <img src="/screenshots/002.png" alt="2" height="350">
@@ -197,7 +198,7 @@ The list ensures seamless restaurant discovery and allows users to manage their 
 <img src="/screenshots/010.png" alt="10" height="350">
 <img src="/screenshots/011.png" alt="11" height="350">
 <img src="/screenshots/012.png" alt="12" height="350">
-
+</div>
 _Error Handling_
 
 <img src="/screenshots/013.png" alt="13" height="350">
@@ -209,8 +210,10 @@ _Error Handling_
 2. User settings: update name, change password, and account deletion
 3. USer sign out
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img src="/screenshots/027.png" alt="27" height="350">
 <img src="/screenshots/028.png" alt="28" height="350">
+</div>
 
 ## API
 
@@ -282,12 +285,13 @@ Many people have the same problem after updating Expo to version 52.0.
 
 ## Dark Mode Screenshots
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img src="/screenshots/dark000.png" alt="d0" height="350">
 <img src="/screenshots/dark001.png" alt="d1" height="350">
 <img src="/screenshots/dark002.png" alt="d2" height="350">
 <img src="/screenshots/dark004.png" alt="d4" height="350">
 <img src="/screenshots/dark003.png" alt="d3" height="350">
-
+</div>
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
