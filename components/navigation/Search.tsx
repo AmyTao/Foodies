@@ -106,7 +106,7 @@ const Search: React.FC<SearchProps> = ({
       // Construct full URL
       const fullUrl = `${url}?${params.toString()}`;
       const apiKey =
-        "CUUvapDn09C6JRN5vVNitPKCGfuzqxib0sKY3i5_7gbADUr5tgPpHJSaqJ11h4aCPuQIEtBhgtn7d7OYkEjqOd1iNRLzTmZfoZj1p0UoVgEoM6DBvMNpCIivLXNOZ3Yx";
+        //Your Yelp API Key;
       // Request options
       const opts = {
         method: "GET",
