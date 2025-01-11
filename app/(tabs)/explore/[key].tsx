@@ -17,7 +17,7 @@ import { transformToRestaurant, Restaurant } from "@/zustand/restaurant";
 const fetchRestaurantById = async (id: string): Promise<Restaurant | null> => {
   const url = `https://api.yelp.com/v3/businesses/${id}`;
   const apiKey =
-    "CUUvapDn09C6JRN5vVNitPKCGfuzqxib0sKY3i5_7gbADUr5tgPpHJSaqJ11h4aCPuQIEtBhgtn7d7OYkEjqOd1iNRLzTmZfoZj1p0UoVgEoM6DBvMNpCIivLXNOZ3Yx";
+    "7rQ5Lm4vERRjoBgA2vtbGk6-moj3vejwuJ3qg5sD48tL3DP8KWmDFY0KSkdh4ph_AJkwPPOKUSRbmETxGSvWdvkcCqpUlpZNih_dzL9S7aCo75dEbwV_r9FCxo0_Z3Yx";
   const opts = {
     method: "GET",
     headers: {
@@ -98,7 +98,7 @@ const RestaurantInfo = () => {
     "Saturday",
   ];
   const formatTime = (time: string) => `${time.slice(0, 2)}:${time.slice(2)}`;
-
+  console.log(restaurant);
   return (
     <ScrollView
       style={[styles.container, { backgroundColor: cardBackgroundColor }]}

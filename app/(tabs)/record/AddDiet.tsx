@@ -28,7 +28,7 @@ import { useThemeColor } from "@/hooks/useThemeColor";
 const MAX_SIZE_MB = 2;
 const MAX_SIZE_BYTES = MAX_SIZE_MB * 1024 * 1024; // 2MB in bytes
 
-const apiKey = "vmg48AzN.7kadZgKHh9vPLjofJzyc2w21lRVSaVTg";
+const apiKey = //Foodvisor API Key;
 const url = "https://vision.foodvisor.io/api/1.0/en/analysis/";
 
 
