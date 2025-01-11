@@ -114,13 +114,14 @@ A blog sharing place.
 
 4. Post draft auto saving: unpublished draft of post will be saved to async-storage if user stop typing for a while automatically, giving user anthoer chance to get them back!
 
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img src="/screenshots/021.png" alt="21" height="350">
 <img src="/screenshots/022.png" alt="22" height="350">
 <img src="/screenshots/023.png" alt="23" height="350">
 <img src="/screenshots/024.png" alt="24" height="350">
 <img src="/screenshots/025.png" alt="25" height="350">
 <img src="/screenshots/026.png" alt="26" height="350">
-
+</div>
 ### Explore
 
 1. **Restaurant Exploration and Search**
