@@ -201,9 +201,10 @@ The list ensures seamless restaurant discovery and allows users to manage their 
 <img src="/screenshots/012.png" alt="12" height="350">
 </div>
 _Error Handling_
-
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img src="/screenshots/013.png" alt="13" height="350">
 <img src="/screenshots/014.png" alt="14" height="350">
+</div>
 
 ### Profile
 
