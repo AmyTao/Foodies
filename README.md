@@ -122,6 +122,7 @@ A blog sharing place.
 <img src="/screenshots/025.png" alt="25" height="350">
 <img src="/screenshots/026.png" alt="26" height="350">
 </div>
+
 ### Explore
 
 1. **Restaurant Exploration and Search**
