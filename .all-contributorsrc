@@ -1,0 +1,25 @@
+{
+  "projectName": "Foodies",
+  "projectOwner": "AmyTao",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "commitConvention": "angular",
+  "contributors": [
+    {
+      "login": "Remi12138",
+      "name": "Xianjing Huang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/145180192?v=4",
+      "profile": "https://github.com/Remi12138",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "linkToUsage": true
+}
